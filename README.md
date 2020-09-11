@@ -1,6 +1,7 @@
 # calculatorflutter
 
-A new Flutter application.
+A calculator application in flutter.
+Currently working on adding bmi index calculation.
 
 ## Screenshot
 --- 
